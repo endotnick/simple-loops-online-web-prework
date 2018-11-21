@@ -15,7 +15,6 @@ def loop_iterator(number_of_times)
     count += 1
     break if count == number_of_times
   end
-end
 
 def times_iterator(number_of_times)
   # code your solution here using the "times" keyword
